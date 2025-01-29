@@ -3,16 +3,30 @@
 <br/>
 
 # Update! 
-- #### Version: v.2.0
+- #### Version: v.2.2
 - #### ОС: Windows
-- #### Дата: 18.01.2025
+- #### Дата: 25.01.2025
 
 ## Изменения:
-##### - Есть возможность создания QR кодов 20x20 мм и 26х26 мм.
-##### - Создан графический интерфейс.
+##### - Было убрано удаление временных файлов, теперь они сохраняются по тому же пути куда и PDF файл.
+##### - Код перешёл на новую библиотеку.
 
 ## Приложение:
-[QR-Code-Generator-v.2.0](AllVersionsOfTheApp/ApplicationVersion2/QR-Code-Generator-Installer-2.0.exe)
+[QR-Code-Generator-Without-Deletion-v.2.2](AllVersionsOfTheApp/ApplicationVersion2/QR-Code-Generator-2.2.exe)
+
+<br/>
+
+# Update! 
+- #### Version: v.2.1
+- #### ОС: Windows
+- #### Дата: 22.01.2025
+
+## Изменения:
+##### - Изменен дизайн QR кодов.
+##### - Изменен размер листа на котором генерируются QR коды.
+
+## Приложение:
+[QR-Code-Generator-v.2.1](AllVersionsOfTheApp/ApplicationVersion2/QR-Code-Generator-2.1.exe)
 
 <br/>
 
