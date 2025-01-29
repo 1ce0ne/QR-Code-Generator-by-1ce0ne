@@ -3,6 +3,22 @@
 <br/>
 
 # Update! 
+- #### Version: v.3.1
+- #### ОС: Windows
+- #### Дата: 29.01.2025
+
+## Изменения:
+##### - Был проведён редизайн.
+##### - Код перешёл на новую библиотеку.
+##### - Появилась гибкая настройка PDF файла
+##### - Временные файлы теперь остаются в папке с exe файлом.
+
+## Приложение:
+[QR-Code-Generator-Without-Deletion-v.3.1](AllVersionsOfTheApp/ApplicationVersion3/QR-Code-Generator-v.3.1.exe)
+
+<br/>
+
+# Update! 
 - #### Version: v.2.2
 - #### ОС: Windows
 - #### Дата: 25.01.2025
