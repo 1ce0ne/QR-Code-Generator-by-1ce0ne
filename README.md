@@ -8,7 +8,7 @@
 - #### Дата: 30.01.2025
 
 ## Изменения:
-##### - Были выровненны кнопки и текст.
+##### - Были выровнены кнопки и текст.
 
 ## Приложение:
 [QR-Code-Generator-Without-Deletion-v.3.2](AllVersionsOfTheApp/ApplicationVersion3/QR-Code-Generator-v.3.2.exe)
