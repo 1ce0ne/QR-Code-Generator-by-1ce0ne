@@ -5,6 +5,19 @@
 # Update! 
 - #### Version: v.3.1
 - #### ОС: Windows
+- #### Дата: 30.01.2025
+
+## Изменения:
+##### - Были выровненны кнопки и текст.
+
+## Приложение:
+[QR-Code-Generator-Without-Deletion-v.3.2](AllVersionsOfTheApp/ApplicationVersion3/QR-Code-Generator-v.3.2.exe)
+
+<br/>
+
+# Update! 
+- #### Version: v.3.1
+- #### ОС: Windows
 - #### Дата: 29.01.2025
 
 ## Изменения:
