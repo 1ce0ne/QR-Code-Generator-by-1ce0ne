@@ -3,7 +3,20 @@
 <br/>
 
 # Update! 
-- #### Version: v.3.1
+- #### Version: v.3.3
+- #### ОС: Windows
+- #### Дата: 05.02.2025
+
+## Изменения:
+##### - Теперь появление окна генератора qr кода будет всегда в левом верхнем углу
+
+## Приложение:
+[QR-Code-Generator-Without-Deletion-v.3.3](AllVersionsOfTheApp/ApplicationVersion3/QR-Code-Generator-v.3.3.exe)
+
+<br/>
+
+# Update! 
+- #### Version: v.3.2
 - #### ОС: Windows
 - #### Дата: 30.01.2025
 
